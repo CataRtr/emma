@@ -1,0 +1,155 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Clicker Script', cursive;
+  font-size: 5.5em;
+  color: #f76b8a;
+  line-height: 1.5;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  color: #f76b8a;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #8785a2;
+
+}
+
+/******************* classes ((((()))))*/
+.top-container {
+  background-color: #fcfefe;
+  position: relative;
+  padding-top: 0;
+  padding-bottom: 0;
+  color: inherit;
+}
+
+.middle-container {
+  background-color:#eaf6f6;
+  position:relative;
+  padding-top:1.5%;
+  padding-bottom: 5%
+
+
+}
+
+.bottom-container {
+  background-color: #66bfbf;
+  color: #11999E;
+  padding-top: 2%;
+
+
+}
+
+
+.profilepic {
+  width: 15%;
+  height: auto;
+  border-radius: 100px;
+}
+
+.footer-link {
+  color: #11999E;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.btn {
+  line-height: 5rem;
+
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Courier New;
+  color: #fcfefe;
+  font-size: 20px;
+  background: #f76b8a;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #66bfbf;
+  text-decoration: none;
+}
+
+
+.footer-link {
+  color: #f76b8a;
+}
+
+.line {
+
+top:150px;
+ border-style:  none;
+    border-top-style: dotted;
+    width: 10%;
+    border-color: #66bfbf;
+    border-width: 0.7rem;
+    margin: 5rem auto 5rem auto;
+
+
+
+}
+
+/*pictures*/
+.lunch1 {
+  width: 20%;
+  height: auto;
+  border-radius: 100px;
+  float: left;
+  margin-right: 20px;
+}
+
+.babywearing {
+  width: 20%;
+  height: auto;
+  border-radius: 100px;
+  float: right;
+  margin-left: 20px;
+}
+
+
+.bottom-cloud {
+  position: absolute;
+  bottom: 10%;
+  left: 10%;
+
+
+}
+
+.top-cloud {
+  position: absolute;
+  right: 10%;
+  top: 10%;
+}
+
+/*text*/
+
+.er{
+  color:#fcfefe;
+
+}
+
+.babywearingtxt {
+    text-align: justify;
+}
+
+.lunchtimetxt {
+    text-align: justify;
+}
